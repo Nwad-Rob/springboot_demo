@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<!-- Product product1=new Product() -->
+<beans>
+<bean id="product1" class="com.springboot.demo.Product">
+<property name="productId" value="101"/>
+<property name="productName" value="Laptop"/>
+<property name="productPrice" value="34234"/>
+
+</bean>
+<bean id="product2" class="com.springboot.demo.Product">
+<property name="productId" value="102"/>
+<property name="productName" value="Mouse"/>
+<property name="productPrice" value="900"/>
+
+</bean>
+<!-- bean definitions here -->
+
+</beans>
