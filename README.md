@@ -1,2 +1,2 @@
 # springboot_demo
-utilizing Springboot with Java, Creating multiple tables using XML files
+utilizing Springframework with Java, Creating multiple tables using XML files
